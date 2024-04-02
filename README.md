@@ -1,6 +1,12 @@
-# secure_autodata
+## Setup:
 
-## Setup
+```bash
+$sh script.sh
+```
+
+- Then try accessing python noteboook.
+
+---
 
 ```bash
 git clone https://github.com/hyperledger/fabric-samples.git
